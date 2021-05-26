@@ -1,3 +1,7 @@
+**This library is used by iOS Legacy App. We were forced to fork this repo in order to fix some crashes related to Gallery Component used by iOS Legacy app.**
+
+
+
 <p align="center" >
   <img src="https://dl.dropboxusercontent.com/u/17911939/galleryIcon.png" alt="MHGallery" title="MHGallery">
 </p>
